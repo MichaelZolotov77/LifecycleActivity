@@ -1,4 +1,4 @@
-package com.example.layouts
+package com.example.lifecycleActivity
 
 import org.junit.Test
 

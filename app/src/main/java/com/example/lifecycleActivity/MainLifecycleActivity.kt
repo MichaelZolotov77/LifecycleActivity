@@ -1,4 +1,4 @@
-package com.example.layouts
+package com.example.lifecycleActivity
 
 
 
@@ -6,10 +6,9 @@ import android.Manifest
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.util.Log
 import androidx.core.app.ActivityCompat
-import com.example.layouts.databinding.ActivityMainLifecycleBinding
+import com.example.lifecycleActivity.databinding.ActivityMainLifecycleBinding
 
 
 class MainLifecycleActivity : AppCompatActivity() {
